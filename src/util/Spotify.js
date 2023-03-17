@@ -1,5 +1,5 @@
-const clientId = '1aae043d2fc342569b55f5716ba398cf';
-const redirectUri = 'https://jamming-2io.pages.dev/';
+const clientId = '5494e73e5fb94e1eb674b9e8a7449c36';
+const redirectUri = 'https://jammming-session.vercel.app/';
 let accessToken;
 
 const Spotify = {
